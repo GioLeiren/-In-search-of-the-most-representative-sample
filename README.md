@@ -1,2 +1,3 @@
 # -In-search-of-the-most-representative-sample
-jhb 
+The goal of this project is to use the textual data from this dataset to create vectors that describe the image files, enabling the use of machine learning algorithms on that data. The focus of this project is to analyze the data to obtain a vector that characterizes the whole.
+The idea is that the objects present in each image are used to build a vector that describes it. In the following figure, each point represents a vector that describes an image. We will call this element (vector) a sample. This illustration is two-dimensional, but in practice we use vectors with many more dimensions. The final objective of this work is to identify the most representative of the entire set of samples
